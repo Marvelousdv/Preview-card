@@ -1,0 +1,102 @@
+.boxes{
+    display: flex;
+    flex-direction: row;
+    padding-left: 250px;
+    padding-top: 150px;
+    cursor: zoom-in;
+}
+.sedan{
+    height: 400px;
+    width: 200px;
+    border: 0px;
+    background-color: hsl(31, 77%, 52%);
+    padding: 20px;
+}
+.image{
+    margin-top: 20px;
+    width: 50px;
+    height: 30px;
+}
+.sedans{
+    font-size: 29px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+}
+.Learn{
+    color: hsl(31, 77%, 52%);
+    width: 120px;
+    height: 30px;
+    border: 0px;
+    background: #fff;
+    border-radius: 19px;
+    font-size: 10px;
+    margin-top: 100px;
+}
+.icon{
+    margin-top: 20px;
+    width: 50px;
+    height: 30px;
+}
+.fuel{
+    color: #fff;
+    font-size: 12px;
+}
+.suv{
+    height: 400px;
+    width: 200px;
+    border: 0px;
+    background-color: hsl(184, 100%, 22%); 
+    padding: 20px;
+}
+.suvs{
+    font-size: 29px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+}
+.button{
+    color: hsl(184, 100%, 22%);
+    width: 100px;
+    height: 30px;
+    border: 0px;
+    background: #fff;
+    border-radius: 19px;
+    font-size: 10px;
+    margin-top: 120px;
+}
+.family{
+    color: #fff;
+    font-size: 12px;
+}
+.luxury{
+    height: 400px;
+    width: 200px;
+    border: 0px;
+    background-color: hsl(179, 100%, 13%);
+    padding: 20px;
+}.svg{
+    margin-top: 20px;
+    width: 50px;
+    height: 30px;
+}
+.lux{
+    font-size: 29px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+}
+.more{
+    color: hsl(179, 100%, 13%);
+    width: 100px;
+    height: 30px;
+    border: 0px;
+    background: #fff;
+    border-radius: 19px;
+    font-size: 10px;
+    margin-top: 120px;
+}
+.cruise{
+    color: #fff;
+    font-size: 12px;
+}
+.take{
+    margin-top: 8px;
+}
